@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ![Tauri](https://img.shields.io/badge/-Tauri-5EC5D8?style=flat-square&logo=tauri&logoColor=white)
 
 
-<div align="center"><img src="https://raw.githubusercontent.com/TRillionZxY/TRillionZxY/main/assets/background.jpg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/TRillionZxY/TRillionZxY/main/assets/background01.jpg" /></div>
 
 ---
 
